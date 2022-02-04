@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/snellc1/Preview-Card](https://github.com/snellc1/Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://snellc1.github.io/Preview-Card/](https://snellc1.github.io/Preview-Card/)
 
 ## My process
 
